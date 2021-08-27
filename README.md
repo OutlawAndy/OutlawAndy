@@ -1,4 +1,21 @@
-### Hi there 👋
+<h1 align="center">
+  Hi there 👋 I'm Andy
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/rubyofftherails/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</h1>
+
+<p align="center">
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outlawandy&theme=tokyonight&layout=compact" height="150">
+  &nbsp;
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" height="150">
+  &nbsp;
+  &nbsp;
+</p>
 
 <!--
 **OutlawAndy/OutlawAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
