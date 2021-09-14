@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="http://outlawandy.github.io/asteroids/">
-    <img src="https://img.shields.io/badge/%F0%9F%9A%80-Go%20Play-blue?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/%F0%9F%9A%80-Go%20Play-blueviolet?style=for-the-badge" />
   </a>
 </h1>
 
