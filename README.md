@@ -9,10 +9,11 @@
 <p align="center">
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outlawandy&theme=tokyonight&layout=compact" height="120">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outlawandy&theme=tokyonight&layout=compact&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="120">
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&hide=contribs" height="120">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+       height="120" />
   &nbsp;
   &nbsp;
 </p>
