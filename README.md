@@ -28,11 +28,16 @@
 <p align="center">
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=outlawandy&theme=tokyonight&layout=compact&hide=coffeescript,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR" height="120">
+  <img
+    height="120"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=outlawandy&theme=tokyonight&layout=compact&hide=coffeescript,html&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  />
   &nbsp;
   &nbsp;
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&hide=contribs"
-       height="120" />
+  <img 
+    height="120"
+    src="https://github-readme-stats-one-bice.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
+  />  <!--   &hide=contribs   -->
   &nbsp;
   &nbsp;
 </p>
