@@ -28,7 +28,7 @@
 <p align="center">
   &nbsp;
   &nbsp;
-  <img 
+  <img
     height="120"
     src="https://github-readme-stats-one-bice.vercel.app/api?username=outlawandy&show_icons=true&count_private=true&theme=tokyonight&hide=contribs&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"
   />
@@ -41,6 +41,8 @@
   &nbsp;
   &nbsp;
 </p>
+
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
 <!--
 **OutlawAndy/OutlawAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
