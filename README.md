@@ -1,5 +1,9 @@
 <h1 align="center">
-  Hi there 👋 I'm Andy
+  Writing
+    <img src="https://skills.thijs.gg/icons?i=ruby&theme=dark" alt="Ruby" style="height: 30px; vertical-align: text-bottom;" />
+  on
+    <img src="https://skills.thijs.gg/icons?i=rails&theme=dark" alt="Rails" style="height: 30px; vertical-align: text-bottom;" />
+  at 🏠 since June 2012 🤘
 </h1>
 
 <p align="center">
@@ -42,19 +46,7 @@
   &nbsp;
 </p>
 
-<img src="/github-metrics.svg" alt="Metrics" width="100%">
 
-<!--
-**OutlawAndy/OutlawAndy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="/github-metrics.svg" alt="Metrics" width="450" />
+</p>
