@@ -20,7 +20,7 @@ jobs:
           # Options
           user: OutlawAndy
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, activity, community, repositories, metadata
           # config_order: base.header, base.activity, base.community, base.repositories, lines, isocalendar, stars, base.metadata
           config_timezone: America/Chicago
           # config_display: columns
@@ -31,9 +31,9 @@ jobs:
           retries_delay: 300
           retries_output_action: 5
           retries_delay_output_action: 120
-          repositories: 200
-          repositories_affiliations: owner, collaborator, organization_member
-          repositories_batch: 50
+          repositories: 400
+          repositories_affiliations: owner, collaborator, organization_member, admin
+          repositories_batch: 100
           repositories_forks: yes
           optimize: css, xml, svg
           experimental_features: --optimize-svg
@@ -48,6 +48,9 @@ jobs:
             andy@setpoint.dev,
             andy.cohen@rolemodelsoftware.com
 
+          config_display: large
+          config_octicon: yes
+
           plugins_errors_fatal: no
 
           plugin_achievements: yes
@@ -56,9 +59,10 @@ jobs:
           plugin_discussions: no
           # plugin_discussions_categories_limit: 0
 
-          plugin_followup: no
-          # plugin_followup_sections: user
-          # plugin_followup_indepth: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_indepth: yes
+          plugin_followup_sections: user
 
           plugin_habits: no
           # plugin_habits_from: 1000
