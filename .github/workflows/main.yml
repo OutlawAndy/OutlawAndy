@@ -31,9 +31,9 @@ jobs:
           retries_delay: 300
           retries_output_action: 5
           retries_delay_output_action: 120
-          repositories: 400
+          repositories: 300
           repositories_affiliations: owner, collaborator, organization_member, admin
-          repositories_batch: 100
+          repositories_batch: 50
           repositories_forks: yes
           optimize: css, xml, svg
           experimental_features: --optimize-svg
@@ -49,7 +49,6 @@ jobs:
             andy.cohen@rolemodelsoftware.com
 
           config_display: large
-          config_octicon: yes
 
           plugins_errors_fatal: no
 
@@ -85,6 +84,7 @@ jobs:
           # plugin_languages_ignored: coffeescript, html
 
           plugin_lines: yes
+          plugin_lines_history_limit: 15
 
           plugin_notable: yes
           plugin_notable_from: all
