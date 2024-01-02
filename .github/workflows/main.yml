@@ -48,7 +48,7 @@ jobs:
             andy@setpoint.dev,
             andy.cohen@rolemodelsoftware.com
 
-          config_display: large
+          # config_display: large
 
           plugins_errors_fatal: no
 
