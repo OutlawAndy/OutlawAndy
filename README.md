@@ -1,9 +1,9 @@
 <h1 align="center">
   Writing
-    <img src="https://skills.thijs.gg/icons?i=ruby&theme=dark" alt="Ruby" style="height: 30px; vertical-align: text-bottom;" />
+    <img src="https://skillicons.dev/icons?i=ruby&theme=dark" alt="Ruby" style="height: 30px; vertical-align: text-bottom;" />
   on
-    <img src="https://skills.thijs.gg/icons?i=rails&theme=dark" alt="Rails" style="height: 30px; vertical-align: text-bottom;" />
-  at 🏠 since June 2012 🤘
+    <img src="https://skillicons.dev/icons?i=rails&theme=dark" alt="Rails" style="height: 30px; vertical-align: text-bottom;" />
+  at 🏠 since 2012 🤘
 </h1>
 
 <p align="center">
@@ -44,9 +44,4 @@
   />
   &nbsp;
   &nbsp;
-</p>
-
-
-<p align="center">
-  <img src="/github-metrics.svg" alt="Metrics" width="450" />
 </p>
